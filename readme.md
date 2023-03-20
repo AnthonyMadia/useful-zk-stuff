@@ -1,3 +1,3 @@
-### Useful Zk Typescript functions
+### Useful Zk Scripts and Functions
 ----
-Useful functions for executing compiling and proving functionality.
+Useful functions and scripts for executing compiling and proving functionality.
