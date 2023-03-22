@@ -1,3 +1,4 @@
 ### Useful Zk Scripts and Functions
 ----
-Useful functions and scripts for executing compiling and proving functionality.
+
+Purely educational repo serving as a collection of functionality and scripts useful for zk things.
